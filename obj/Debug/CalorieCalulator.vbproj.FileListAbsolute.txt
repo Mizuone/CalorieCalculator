@@ -1,0 +1,11 @@
+C:\Users\student\AppData\Local\Temporary Projects\CalorieCalulator\bin\Debug\CalorieCalulator.exe.config
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\bin\Debug\CalorieCalulator.exe.config
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\bin\Debug\CalorieCalulator.exe
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\bin\Debug\CalorieCalulator.pdb
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\bin\Debug\CalorieCalulator.xml
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.CalorieCalculator.resources
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.Resources.resources
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.vbproj.GenerateResource.Cache
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.exe
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.xml
+D:\Sharepoint Classes\Coding\Self-Projects\CalorieCalulator\obj\Debug\CalorieCalulator.pdb
